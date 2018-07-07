@@ -1,0 +1,2 @@
+# generateBase64
+批量生产图片base64编码的json文件
